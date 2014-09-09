@@ -26,7 +26,7 @@ public class TurtleWorld
         t8.setPenColor(Color.BLUE);//pink
         t9.setPenColor(Color.RED);//magenta
         
-        int num = 100;
+        int num = 20;
         
         t1.setPenWidth(num);
         t2.setPenWidth(num);
@@ -280,8 +280,6 @@ public class TurtleWorld
         t9.forward(80);
         t9.turn(90);
         t9.forward(220);
-        
-        
         
         
         
